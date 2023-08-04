@@ -7,7 +7,8 @@ module.exports = {
         'container': "1170px"
       },
       width:{
-        'pricing-item':'500px'
+        'pricing-item':'500px',
+        'product-w':'570px'
       },
       fontFamily: {
         'primary-font': ["'Poppins', sans-serif;"],
